@@ -28,7 +28,7 @@ This project visualizes employee expenses across departments and provides real-t
 ---
 
 ## 🗂️ Folder Structure
-
+```text
 employee-expense-tracker-dashboard/
 │
 ├── app.py # Streamlit dashboard
@@ -41,6 +41,7 @@ employee-expense-tracker-dashboard/
 ├── dashboard-summary.png
 ├── expenses-table.png
 └── filter-view.png
+```
 
 yaml
 Copy code
