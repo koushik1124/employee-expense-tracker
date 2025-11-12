@@ -87,12 +87,16 @@ Copy code
 streamlit run app.py
 Then open http://localhost:8501
 
-📊 Dashboard Preview
-🏠 Dashboard Summary
+## 📊 Dashboard Preview
 
-📋 Expenses Table
+### 🏠 Dashboard Summary
+![Dashboard Summary](screenshots/dashboard-summary.png)
 
-🔍 Filter View
+### 📋 Expenses Table
+![Expenses Table](screenshots/expenses-table.png)
+
+### 🔍 Filter View
+![Filter View](screenshots/filter-view.png)
 
 🧠 Key Learning Outcomes
 ✅ Relational database schema design
